@@ -89,8 +89,8 @@ Invoice PDF ───> [ 1. Parser ] ───> [ 2. 3-Way Recon ] ───> [ 
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/YOUR_USERNAME/LedgerMind.git
-cd LedgerMind
+git clone https://github.com/aman7052/Track-4-Razorpay-ledgermind-AI_Finance_Controller.git
+cd Track-4-Razorpay-ledgermind-AI_Finance_Controller
 pip install -r requirements.txt
 ```
 
